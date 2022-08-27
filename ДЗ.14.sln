@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДЗ.14", "ДЗ.14\ДЗ.14.csproj", "{A7CF82EC-745B-4324-9368-2C1C5309AAEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{C1A91AF3-C4DF-479E-96AD-9DCA39E00691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{0D72B91C-D811-42D8-8898-D7FDA5293030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CF82EC-745B-4324-9368-2C1C5309AAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CF82EC-745B-4324-9368-2C1C5309AAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CF82EC-745B-4324-9368-2C1C5309AAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CF82EC-745B-4324-9368-2C1C5309AAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A91AF3-C4DF-479E-96AD-9DCA39E00691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A91AF3-C4DF-479E-96AD-9DCA39E00691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A91AF3-C4DF-479E-96AD-9DCA39E00691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A91AF3-C4DF-479E-96AD-9DCA39E00691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D72B91C-D811-42D8-8898-D7FDA5293030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D72B91C-D811-42D8-8898-D7FDA5293030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D72B91C-D811-42D8-8898-D7FDA5293030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D72B91C-D811-42D8-8898-D7FDA5293030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {907126FC-A7CA-4D48-8DC6-134C32017264}
+	EndGlobalSection
+EndGlobal
